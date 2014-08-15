@@ -16,6 +16,12 @@ addpath(genpath(pwd)); savepath;
 
 Contents
 ========
-DistinguishableColours
+
+### DistinguishableColours
     distinguishable_colors(n) : returns an [nx3] matrix of maximally distinct
     colors
+
+### Simple_tSNE
+    dimensionality reduction technique for visualizing high dimensions
+
+
